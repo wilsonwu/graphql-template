@@ -1,0 +1,18 @@
+{
+  "name": "graphql-template",
+  "version": "0.2.0",
+  "description": "A nodejs GraphQL project scaffold, a full template help you build your GraphQL backend project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graphql", "apolloserver", "nodejis", "api"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.15.1",
+    "dotenv-flow": "^3.2.0",
+    "graphql": "^15.2.0",
+    "mysql": "^2.18.1"
+  }
+}
